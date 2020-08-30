@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25345" started-at="2020-08-30T19:51:08 IST" finished-at="2020-08-30T19:51:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25345" started-at="2020-08-30T19:51:08 IST" finished-at="2020-08-30T19:51:33 IST">
+      <class name="testCases.HomePageTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="startReport" is-config="true" duration-ms="129" started-at="2020-08-30T19:51:08 IST" finished-at="2020-08-30T19:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setInfo()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="setInfo" is-config="true" duration-ms="0" started-at="2020-08-30T19:51:08 IST" finished-at="2020-08-30T19:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setInfo -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="testDetails" is-config="true" duration-ms="7" started-at="2020-08-30T19:51:08 IST" finished-at="2020-08-30T19:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="preCondition" is-config="true" duration-ms="15557" started-at="2020-08-30T19:51:08 IST" finished-at="2020-08-30T19:51:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runVerifyFounderAndChairmanNameInHclCorporationPage()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="runVerifyFounderAndChairmanNameInHclCorporationPage" duration-ms="9661" started-at="2020-08-30T19:51:24 IST" finished-at="2020-08-30T19:51:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyFounderAndChairmanNameInHclCorporationPage -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="postCondition" is-config="true" duration-ms="84" started-at="2020-08-30T19:51:33 IST" finished-at="2020-08-30T19:51:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:testCases.HomePageTest@49fc609f]" name="endReport" is-config="true" duration-ms="400" started-at="2020-08-30T19:51:33 IST" finished-at="2020-08-30T19:51:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
